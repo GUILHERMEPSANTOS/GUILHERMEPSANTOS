@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/GUILHERMEPSANTOS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GUILHERMEPSANTOS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUILHERMEPSANTOS&layout=compact&langs_count=7&theme=dark"/>
+   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUILHERMEPSANTOS&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,7 +32,4 @@
   <a href="https://www.linkedin.com/in/guilherme-pereira-dos-santos-1a387a1ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/GUILHERMEPSANTOS/GUILHERMEPSANTOS/blob/output/github-contribution-grid-snake.svg)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
