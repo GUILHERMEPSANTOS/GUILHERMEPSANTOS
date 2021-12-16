@@ -32,6 +32,6 @@
   <a href="https://www.linkedin.com/in/guilherme-pereira-dos-santos-1a387a1ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/GUILHERMEPSANTOS/GUILHERMEPSANTOS/blob/output/github-contribution-grid-snake.svg)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GUILHERMEPSANTOS)](https://github.com/GUILHERMEPSANTOS/github-readme-stats)
+
 
 
