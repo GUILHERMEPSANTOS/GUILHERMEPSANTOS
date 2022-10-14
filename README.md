@@ -1,7 +1,7 @@
 ### Hi! I'm Guilherme Pereira dos Santos 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JavaScript and Java.
+- 🔭 I’m currently working on Sinqia
+- 🌱 I’m currently learning TypeScript, Java and C#.
 - 📫 How to reach me: guilhermepereiradossantos41@outlook.com
 
 <div align="center">
