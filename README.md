@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning TypeScript, Java and C#.
 - 📫 How to reach me: guilhermepereiradossantos41@outlook.com
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/GUILHERMEPSANTOS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GUILHERMEPSANTOS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GUILHERMEPSANTOS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
    
 </div>
 <div style="display: inline_block"><br>
