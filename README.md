@@ -1,4 +1,4 @@
-### Olá Guilherme Pereira dos Santos 👋
+### Olá meu nome é Guilherme Pereira dos Santos 👋
 
 
 <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/753646084944822322/921125583910486036/gui_git.png">
