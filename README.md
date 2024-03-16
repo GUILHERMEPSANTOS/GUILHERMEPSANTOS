@@ -1,7 +1,7 @@
 ### Olá, meu nome é Guilherme Pereira dos Santos. 👋
 
 
-<img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/753646084944822322/921125583910486036/gui_git.png">
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
 Analista desenvolvedor com experiência em C#, .NET Core, SQL Server, Node.js, Jenkins, Docker, SonarQube e GIT. Busco resultados eficientes e estou sempre aprimorando minhas habilidades técnicas. Tenho interesse em DevOps, Engenharia de Software e Segurança de aplicações, e busco contribuir para projetos inovadores.
 
