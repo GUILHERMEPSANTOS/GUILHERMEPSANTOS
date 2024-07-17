@@ -25,9 +25,7 @@ Analista desenvolvedor com experiência em C#, .NET Core, SQL Server, Node.js, J
         <img src="https://github-readme-streak-stats.herokuapp.com?user=GUILHERMEPSANTOS&theme=dark&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak">
       </a>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=GUILHERMEPSANTOS&show_icons=true&theme=dark" alt="Anurag's GitHub stats">
-    </td>
+  
   </tr>
 </table>
 
