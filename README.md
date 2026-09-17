@@ -16,21 +16,6 @@ Analista desenvolvedor com experiência em C#, .NET Core, SQL Server, Node.js, J
 <br/>
 <br/>
 <br/>
-<br/>
-
-<table>
-  <tr>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=GUILHERMEPSANTOS&theme=dark&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak">
-      </a>
-    </td>
-  
-  </tr>
-</table>
-
-<br/>
-<br/>
 
 ### **Tecnologias com as quais trabalho:**
 
